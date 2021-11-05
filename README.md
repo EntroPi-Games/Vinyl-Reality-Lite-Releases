@@ -6,15 +6,14 @@ Currently supported platforms are **Oculus Quest** and **Quest 2**.
 
 ## Feature overview
 
-This Lite version is currently in beta and contains all of the core DJ functionality from the PC version, but is not yet feature complete. 
+This Lite version contains all of the core DJ functionality from the PC version, but is not yet feature complete. 
 
 Due to limitations of the platform it will not contain all of the features of the PC version.
 
 ### Planned features that are still missing
+
 - Rekordbox collection support
-- Basic interactive tutorial
 - Loading custom environments
-- Main menu
 
 ### Features from the PC version that will not be included
 
